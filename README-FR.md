@@ -4,7 +4,7 @@ Une liste organisée de projets de développeurs indépendants chinois.
 ### Sous-éditions
 - [Édition Programmateur](./pages/README-Programmer-Edition-FR.md) : utilise la ligne de commande ou écrit du code
 - [Édition Jeux](./pages/README-Game-FR.md) : que des jeux
-- [Liste de projets 2018 ~ 2020](./pages/README-2018-2020.md) : archivée séparément en raison des limitations de rendu GitHub
+- [Liste de projets 2018 ~ 2020](./pages/README-2018-2020-FR.md) : archivée séparément en raison des limitations de rendu GitHub
 
 Remarque : vous consultez actuellement l'édition principale. Les produits répertoriés ici sont prêts à l'emploi, et sont de types différents de ceux des sous-éditions.
 
@@ -5815,7 +5815,7 @@ You can also use an Emoji to represent and record your current mood, and later t
 * :clock8: [Video Progress Bar Generator](https://gitee.com/zhengmingpei/VideoProgressBarTool-Windows)：A small helper tool for creating video progress bars (temporarily on Gitee) - [Plus d'informations](https://www.bilibili.com/video/BV1ZA411p7M2/)
 
 
-👉 View [2018-2020 Project List](./pages/README-2018-2020.md) (archived separately due to GitHub rendering limitations)
+👉 View [2018-2020 Project List](./pages/README-2018-2020-FR.md) (archived separately due to GitHub rendering limitations)
 
 
 ---

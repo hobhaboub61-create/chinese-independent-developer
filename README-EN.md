@@ -24,32 +24,6 @@ So we created this repository. Developers are welcome to add their own projects~
 
 ## 3. Project List
 
-## List of Chinese Independent Developer Projects
-Aggregating all projects from Chinese independent developers
-
-### Sub-forums
-- [Programmer Edition](./pages/README-Programmer-Edition.md)：Requires command line or coding
-- [Game Edition](./pages/README-Game.md)：All games
-- [2018 ~ 2020 Project List](./pages/README-2018-2020.md)：Archived separately due to GitHub rendering limits
-
-Note: You are currently viewing the main forum. The products listed here are ready-to-use and differ from the product types in the sub-forums.
-
-**1. Why does this list exist**
-As developers, we're naturally curious about what side projects others are working on (regardless of whether the goal is profitability, fun, or just experimenting)
-That's why this repo was created. Developers are welcome to add their own projects~ Just submit a Pull Request or Issue <br/>
-（Selection criteria: Must be a website or app, not a developer tool or forum-style website）
-
-**A good introduction matters**：❌ `AI video generation tool` → ✅ `No editing experience needed, generate vertical short videos in 3 steps`<br/>
-👉 [How to write a good one-line product introduction](./CONTRIBUTING.md)
-
-**2. Projects have 3 statuses**
-
-| In Development | Live | Closed or Unmaintained |
-|--------|--------|--------|
-| :clock8: | :white_check_mark: | :x: |
-
-## 3. Project List
-
 ### Added on July 15, 2026
 
 #### dongdongbh - [Github](https://github.com/dongdongbh)

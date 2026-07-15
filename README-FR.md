@@ -24,32 +24,6 @@ C'est pourquoi ce dépôt a été créé. Bienvenue à tous les développeurs po
 
 ## 3. Liste des projets
 
-## Liste des projets de développeurs indépendants chinois
-Agrégation de tous les projets de développeurs indépendants chinois
-
-### Sous-forums
-- [Édition Programmeur](./pages/README-Programmer-Edition.md)：Nécessite une ligne de commande ou de l'écriture de code
-- [Édition Jeux](./pages/README-Game.md)：Tous des jeux
-- [Liste de projets 2018 ~ 2020](./pages/README-2018-2020.md)：Archivé séparément en raison des limitations de rendu de GitHub
-
-Remarque : Vous consultez actuellement le forum principal. Les produits répertoriés ici sont prêts à l'emploi et diffèrent des types de produits dans les sous-forums.
-
-**1. Pourquoi cette liste existe-t-elle**
-En tant que développeurs, nous sommes naturellement curieux de savoir sur quels projets secondaires d'autres personnes travaillent (que l'objectif soit la rentabilité, le plaisir ou simplement l'expérimentation)
-C'est pourquoi ce dépôt a été créé. Les développeurs sont invités à ajouter leurs propres projets~ Soumettez simplement une Pull Request ou une Issue <br/>
-（Critères de sélection : Doit être un site web ou une application, pas un outil de développement ou un site de type forum）
-
-**Une bonne introduction est importante**：❌ `Outil de génération vidéo IA` → ✅ `Aucune expérience de montage requise, générez des vidéos courtes verticales en 3 étapes`<br/>
-👉 [Comment rédiger une bonne introduction produit en une phrase](./CONTRIBUTING.md)
-
-**2. Les projets ont 3 statuts**
-
-| En développement | En ligne | Fermé ou non maintenu |
-|--------|--------|--------|
-| :clock8: | :white_check_mark: | :x: |
-
-## 3. Liste des projets
-
 ### Ajouté le 15 juillet 2026
 
 #### dongdongbh - [Github](https://github.com/dongdongbh)
